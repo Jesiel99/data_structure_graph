@@ -8,4 +8,3 @@ class Edge:
         self.goingTo = goingTo
         self.weight = weight
         self.id = (int, int)
-
